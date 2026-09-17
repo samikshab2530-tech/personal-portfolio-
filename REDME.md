@@ -1,4 +1,4 @@
-# Hi, I'm Samiksha Bhalerao 👋
+# Hi, I'm Samiksha Burkule 👋
 
 ### BCA Student | Aspiring Web Developer
 From Chhatrapati Sambhajinagar
@@ -15,6 +15,6 @@ From Chhatrapati Sambhajinagar
 #### 📫 Contact Me
 - Email: samikshab2530@gmail.com
 - GitHub: samikshab2530-tech
-- LinkedIn: Samiksha Bhalerao
+- LinkedIn: Samiksha Burkule
 
 ⭐ Welcome to my portfolio!
